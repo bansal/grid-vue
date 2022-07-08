@@ -1,0 +1,43 @@
+[{
+    "id": 1,
+    "country": "italy",
+    "city": "venice",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+    "image": "https://images.unsplash.com/photo-1552751118-d3cde54807de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHZlbmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+    "size": 2
+}, {
+    "id": 2,
+    "country": "germany",
+    "city": "berlin",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+    "image": "https://images.unsplash.com/photo-1560930950-5cc20e80e392?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmVybGlufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "size": 1
+}, {
+    "id": 3,
+    "country": "spain",
+    "city": "barcelona",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+    "image": "https://images.unsplash.com/photo-1558642084-fd07fae5282e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGJhcmNlbG9uYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+    "size": 1
+}, {
+    "id": 4,
+    "country": "france",
+    "city": "peris",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+    "image": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGFyaXN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+    "size": 1
+}, {
+    "id": 5,
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+    "image": "https://images.unsplash.com/photo-1580996378027-23040f16f157?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YW1zdGVyZGFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "size": 1
+}, {
+    "id": 6,
+    "country": "united kingdom",
+    "city": "london",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+    "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bG9uZG9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "size": 2
+}]
