@@ -1,6 +1,11 @@
 <template>
   <div id="app" class="container">
-    <Banner title="front-end" image="https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3VucmlzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60" heading="valtech_" summary="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt." />
+    <Banner
+        :title="banner.title"
+        :image="banner.image"
+        :heading="banner.heading"
+        :summary="banner.summary"
+    />
     <DataGrid :items="items" />
   </div>
 </template>
@@ -14,6 +19,12 @@ export default {
   data(){
     return {
       items: [],
+      banner:{
+        heading: 'valtech_',
+        image: 'https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3VucmlzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60',
+        summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+        title: 'front-end',
+      },
     }
   },
   components: {
